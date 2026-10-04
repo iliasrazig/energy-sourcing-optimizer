@@ -1,0 +1,17 @@
+# Core
+numpy>=1.26
+pandas>=2.2
+pydantic>=2.7
+pydantic-settings>=2.3
+
+# Training and optimization
+scikit-learn>=1.5
+scipy>=1.13
+pyarrow>=16
+joblib>=1.4
+holidays>=0.55
+requests>=2.32
+
+# Web app
+streamlit>=1.50
+plotly>=5.24
